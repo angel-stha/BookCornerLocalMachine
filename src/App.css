@@ -1,0 +1,146 @@
+.App {
+  text-align: center;
+  background-color: powderblue;
+  height:100%;
+  width:100%
+
+}
+
+/*.body{*/
+/*  background-image:url('/src/lib.jpg');*/
+/*  height: 100%;*/
+
+/*}*/
+.an{
+  background-color: powderblue;
+  height:100%;
+  width:100%
+}
+
+.App-logo {
+  animation: App-logo-spin infinite 20s linear;
+  height: 40vmin;
+  pointer-events: none;
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.Header {
+  color: #1d55c5;
+  font-family: 'Times New Roman', Times, serif;
+  font-weight: bold;
+  font-style: italic
+
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+
+
+
+.main{
+  text-align: center;
+  background-color:blue;
+  font-family:  Arial, Helvetica, sans-serif;
+  color:white;
+  border-bottom: blue;
+  height: 50px;
+
+}
+.s{
+  background-color: bisque;
+
+}
+.stdlogin{
+  background-color:powderblue;
+  background-repeat: no-repeat;
+  height:1000px;
+  width: 659px;
+  float: left;
+}
+.std{
+  font:Georgia;
+  font-family: Georgia;
+
+  font-size:30px;
+  text-align:center;
+}
+.description{
+  background-color:powderblue;
+  background-position: right;
+  float:right;
+  width:690px;
+  height: 1000px;
+}
+.names{
+  font-size:20px;
+  font-family: Georgia;
+  margin: 10px 10% 0 10%;
+}
+.name{
+  font-size:30px;
+  font-family: Georgia;
+  margin: 10px 10% 0 10%;
+  font-style:italic;
+  color:darkblue;
+
+}
+.button{
+  background-color:black;
+  border: none;
+  color: white;
+  padding: 10px 15px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 15px;
+  margin: 10px 10% 0 45%;
+  cursor: pointer;
+}
+.button1{
+  background-color:black;
+  border: none;
+  color: white;
+  padding: 10px 15px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 15px;
+  margin: 10px 10% 0 35%;
+  cursor: pointer;
+}
+.button2{
+  background-color:black;
+  border: none;
+  color: white;
+  padding: 10px 15px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 15px;
+  margin: 10px 10% 0 10%;
+  cursor: pointer;
+}
+.button5:hover {
+  background-color:white;
+  color:black;
+}
+
+
+
